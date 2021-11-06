@@ -2,7 +2,7 @@
   "version": "1.0.0-alpha.0",
   "author": "The Knights Who Say NIH!",
   "description": "Design tokens for NIH Design System",
-  "license": "SEE LICENSE IN LICENSE.md",
+  "license": "EUPL-1.2",
   "name": "@wesaynih.dev/design-tokens",
   "keywords": [
     "nl-design-system"
