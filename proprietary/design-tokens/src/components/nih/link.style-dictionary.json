@@ -1,0 +1,7 @@
+{
+  "nih": {
+    "link": {
+      "color": { "value": "{nih.color.blue.50.value}" }
+    }
+  }
+}
