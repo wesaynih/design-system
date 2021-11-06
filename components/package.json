@@ -1,7 +1,7 @@
 {
   "version": "1.0.0-alpha.0",
-  "author": "Community for NL Design System",
-  "description": "Components for a design system based on the NL Design System architecture",
+  "author": "The Knights Who Say NIH!",
+  "description": "NIH Component library",
   "license": "EUPL-1.2",
   "name": "@wesaynih.dev/components",
   "keywords": [
